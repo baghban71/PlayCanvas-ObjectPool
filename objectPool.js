@@ -1,3 +1,7 @@
+/* https://github.com/baghban71/PlayCanvas_ObjectPool
+Mohammad Reza Baghbani 26/december/2021
+*/
+
 var ObjectPool = pc.createScript('objectPool');
 ObjectPool.attributes.add("tags", { type: "string" });
 
